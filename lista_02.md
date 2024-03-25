@@ -40,13 +40,8 @@ console.log("A soma dos números é:", soma);
 ```
 Qual das seguintes alternativas melhor descreve o que o código faz?
 
-A) O código avalia a expressão booleana, imprime o resultado `false`, calcula a soma dos números de 1 a 5 e imprime o resultado no console.
-
 <mark>B) O código avalia a expressão booleana, imprime o resultado `true`, calcula a soma dos números de 1 a 5 e imprime o resultado no console.</mark>
 
-C) O código avalia a expressão booleana, imprime o resultado `true` e verifica se o número 5 está presente na lista de números.
-
-D) O código avalia a expressão booleana, imprime o resultado `false` e ordena a lista de números em ordem crescente.
 
 
 ______
@@ -104,13 +99,8 @@ function calculaOrcamento2(){
 
 Escolha a opção que responde corretamente qual seria a saída após a execução de cada função:
 
-A) As funções calcularOrcamento() e calcularOrcamento2() teriam a mesma saída: 'Seu saldo é negativo de -1050.'
-
 <mark>B) A saída de calcularOrcamento() seria: 'Seu saldo é negativo de -1050.' e a de calcularOrcamento2() seria: 'Seu saldo é negativo de -100.'</mark>
 
-C) A saída de calcularOrcamento() seria: 'Seu saldo é negativo de -100.' e a de calcularOrcamento2() seria: 'Seu saldo é negativo de -1050.'
-
-D) As funções calcularOrcamento() e calcularOrcamento2() teriam a mesma saída: 'Seu saldo é negativo de -100.'
 
 ______
 
@@ -129,13 +119,6 @@ if (numero % 2 === 0) {
 ```
 
  Qual das seguintes alternativas é a descrição mais precisa do que o código faz?
-
-
-A) O código verifica se o número é divisível por 3 e, se for, exibe a mensagem "O número é divisível por 3!".
-
-B) O código verifica se o número é par ou ímpar. Se for par, exibe a mensagem "O número é par!". Se for ímpar, exibe a mensagem "O número é ímpar!".
-
-C) O código verifica se o número é par, ímpar ou divisível por 3. Se for par, exibe a mensagem "O número é par!". Se for divisível por 3, exibe a mensagem "O número é divisível por 3!". Se for ímpar, exibe a mensagem "O número é ímpar e não é divisível por 3!".
 
 <mark>D) O código verifica se o número é par, se é divisível por 3 ou se é ímpar. Se for par, exibe a mensagem "O número é par!". Se for divisível por 3 (e não for par), exibe a mensagem "O número é divisível por 3!". Se for ímpar (e não for divisível por 3), exibe a mensagem "O número é ímpar e não é divisível por 3!".</mark>
 
@@ -165,42 +148,6 @@ for (var i = 0; i < valorCompras.length; i++) {
 }
 ```
 
-Escolha a opção que responde corretamente:
-
-A)
-Compra 1 aprovada. Saldo restante: 800
-
-Compra 2 aprovada com limite de crédito. Saldo restante: 700
-
-Compra 3 aprovada. Saldo restante: 400
-
-Compra 4 aprovada com limite de crédito. Saldo restante: 0
-
-Compra 5 aprovada. Saldo restante: -200
-
-
-B)
-Compra 1 aprovada. Saldo restante: 800
-
-Compra 2 aprovada com limite de crédito. Saldo restante: 700
-
-Compra 3 aprovada. Saldo restante: 200
-
-Compra 4 negada. Saldo insuficiente e limite de crédito excedido.
-
-Compra 5 negada. Saldo insuficiente e limite de crédito excedido.
-
-
-C)
-Compra 1 aprovada. Saldo restante: 800
-
-Compra 2 aprovada com limite de crédito. Saldo restante: 700
-
-Compra 3 aprovada. Saldo restante: 400
-
-Compra 4 negada. Saldo insuficiente e limite de crédito excedido.
-
-
 <mark>D)
 
 <mark>Compra 1 aprovada. Saldo restante: 800
@@ -218,26 +165,15 @@ ______
 
 Escolha a opção que responde corretamente:
 
-A) Setup -> Update -> Draw
-
 <mark>B) Preload -> Create -> Update
 
-C) Load -> Initialize -> Render
-
-D) Begin -> Play -> End
 ______
 
 **6)** Qual é o objetivo principal do módulo Arcade Physics em Phaser.js?
 
 Escolha a opção que responde corretamente:
 
-A) Renderizar gráficos 3D para jogos em HTML5.
-
 <mark>B) Simular interações físicas realistas, como colisões e movimentos, em jogos 2D.
-
-C) Criar efeitos de áudio para melhorar a experiência do usuário em jogos.
-
-D) Gerenciar a lógica do jogo e a sincronização de eventos em jogos multiplayer.
 
 ______
 
